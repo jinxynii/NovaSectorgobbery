@@ -294,6 +294,17 @@
 	. = ..()
 	AddComponent(/datum/component/squeak, list('modular_nova/master_files/sound/effects/heel1.ogg' = 1, 'modular_nova/master_files/sound/effects/heel2.ogg' = 1), 50)
 
+// Donation reward for Lucine
+/obj/item/clothing/neck/padded/alt2
+name = "feathered serenity cloak"
+	desc = "A meticulously handcrafted cloak that is lined with subtle pockets filled with feathers and down. Its design matches common styles from the followers of Univitarium."
+	icon_state = "paddedscarfalt2"
+	inhand_icon_state = "paddedscarfalt2"
+
+/obj/item/clothing/head/hooded/padded/alt
+	name = "feathered serenity hood"
+	icon_state = "paddedhoodalt2"
+
 // Donation reward for Bloodrite
 /obj/item/clothing/shoes/clown_shoes/britches
 	desc = "The prankster's standard-issue clowning shoes. They look extraordinarily cute. Ctrl-click to toggle waddle dampeners."
