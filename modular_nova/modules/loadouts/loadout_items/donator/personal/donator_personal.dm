@@ -28,6 +28,11 @@
 	item_path = /obj/item/clothing/neck/padded
 	ckeywhitelist = list("thedragmeme", "SomeNetwork")
 
+/datum/loadout_item/neck/padded/alt2
+	name = "Feathered Serenity Cloak"
+	item_path = /obj/item/clothing/neck/padded
+	ckeywhitelist = list("Lucine")
+
 /datum/loadout_item/neck/padded/alt
 	name = "Feathered Serenity Cloak"
 	item_path = /obj/item/clothing/neck/padded/alt
